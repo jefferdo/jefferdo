@@ -10,7 +10,6 @@ At KOKIINC (PVT) Ltd, we are committed to **transforming the way businesses oper
 
 As a startup, we are agile, innovative, and always looking for new ways to push the boundaries of what is possible. We specialize in delivering custom solutions across a range of industries, including:
 
-- ♻️ Sustainable energy
 - 🛒 Store automation
 - 🛍️ E-commerce
 - 🚗 Travel and transportation
