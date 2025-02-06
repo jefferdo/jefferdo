@@ -1,4 +1,4 @@
-# 👋 Hi, I'm a 🚀 Software Engineer, Technology Consultant and Director at KOKIINC (PVT) Ltd
+# 👋 Hi, I'm a Software Engineer, Technology Consultant and Director at KOKIINC (PVT) Ltd
 
 ## 🧑‍💼 About Me
 
