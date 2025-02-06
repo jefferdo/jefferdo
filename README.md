@@ -5,7 +5,7 @@
 As a software engineer and technology leader, I specialize in high-performance, scalable solutions across fintech, cybersecurity, e-commerce, and cloud-based applications.
 Currently, I serve as the Director at KOKIINC (PVT) Ltd, where I lead engineering team, digital transformation projects, and R&D initiatives. In addition, I am involved in management consulting and a multi-channel digital network, working at the intersection of technology, business, and innovation.
 
-## Technical Expertise
+## 🔹 Technical Expertise
 - ✅ Software Architecture (Scalable Systems, API Integrations, ERP Solutions, Security Enhancements)
 - ✅ Cloud Security & Encryption (End-to-End Secure Communications, Webhooks Protection)
 - ✅ Fintech & E-Commerce (Payment Gateways, Secure Transactions, Digital Transformation)
