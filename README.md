@@ -1,6 +1,10 @@
 # 👋 Hi, I'm a Software Engineer, Technology Consultant and Director at KOKIINC (PVT) Ltd
 
-[![Jeewaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefferdo)](https://github.com/jefferdo/github-readme-stats)
+<div align="center" style="display: flex;">
+  <img width="330" src="https://github-readme-stats.vercel.app/api?username=jefferdo&hide=stars&theme=github_dark" />
+  <img width="330" src="https://github-readme-streak-stats.herokuapp.com/?user=jefferdo&theme=radical&hide_border=false" />
+  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefferdo&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
 
 ## 🧑‍💼 About Me
 
