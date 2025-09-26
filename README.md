@@ -1,5 +1,7 @@
 # 👋 Hi, I'm a Software Engineer, Technology Consultant and Director at KOKIINC (PVT) Ltd
 
+[![Jeewaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefferdo)](https://github.com/jefferdo/github-readme-stats)
+
 ## 🧑‍💼 About Me
 
 As a software engineer and technology leader, I specialize in high-performance, scalable solutions across fintech, cybersecurity, e-commerce, and cloud-based applications.
